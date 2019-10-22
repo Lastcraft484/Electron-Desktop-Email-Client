@@ -1,4 +1,12 @@
-#Gmail Desktop Client
+
+## This Project Is Dead
+  I am not really sure where I was going with this project but its not worth it to finnish it as I have started a new project and no 
+  longer have the drive to finish this one. I will leave the code up for anyone who wants to finish it, just make sure to credit me if you 
+  use the code I have here.
+
+
+
+## Gmail Desktop Client
 
 **This is an Application Built on Electron**
 
@@ -6,7 +14,7 @@
 
 ## To Use
 
-For the time being until I package the applicatio when I'm Done you will need to download and do the following:
+For the time being until I package the application when I'm Done you will need to download and do the following:
 
 ```bash
 # Clone this repository
@@ -19,8 +27,3 @@ npm install
 npm start
 ```
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
-## License
-
-[CC0 1.0 (Public Domain)](LICENSE.md)
