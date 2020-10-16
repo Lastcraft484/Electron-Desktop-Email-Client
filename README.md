@@ -19,7 +19,7 @@ For the time being until I package the application when I'm Done you will need t
 # Clone this repository
 git clone
 # Go into the repository
-cd (where ever you downloaded the zip or cloned the reop)
+cd (where ever you downloaded the zip or cloned the repo)
 # Install dependencies
 npm install
 # Run the app
