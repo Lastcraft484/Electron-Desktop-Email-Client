@@ -1,8 +1,7 @@
 
 ## This Project Is Dead
-  I am not really sure where I was going with this project but its not worth it to finnish it as I have started a new project and no 
-  longer have the drive to finish this one. I will leave the code up for anyone who wants to finish it, just make sure to credit me if you 
-  use the code I have here.
+  I am not really sure where I was going with this project but its not worth it to finish it as I have started a new project and no 
+  longer have the drive to finish this one. I will leave the code up for anyone who wants to finish it, 
 
 
 
